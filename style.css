@@ -683,7 +683,9 @@ li:hover{
 }
 
 .askquestions button{
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width:50px;
     color:#fff;
     background-color: var(--color-Bright-Red);
